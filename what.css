@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.parent{
+    position:fixed;
+    display: flex;
+    border: 1px solid red;
+    
+}
+
+.header{
+    border: 1px solid black;
+    height: 100px;
+    width: 400px;
+    background: whitesmoke;
+       
+}
+
+.head-img{
+    border-radius: 100%;
+    margin: 10px;
+    width: 70px;
+    height: auto;
+}
+
+
+.header2{
+    border: 1px solid black;
+    height: 100px;
+    width: 1000px;
+    background: whitesmoke;
+    
+}
+
+
+.fa-commenting-o{
+    position: relative;
+    bottom: 36px;
+    
+    left: 140px;
+}
+
+.fa-envelope-o{
+    position: relative;
+    bottom:36px;
+    left:160px ;
+
+}
+.fa-ellipsis-v{
+    position: relative;
+    bottom:36px;
+    left:180px ;
+}
+
+.head-img2{
+    border-radius: 100%;
+    margin: 10px;
+    width: 70px;
+    height: auto;
+}
+
+.name{
+    position: relative;
+    left: 100px;
+    bottom: 56px;
+}
+
+#seaching{
+    position: relative;
+    left: 800px;
+    bottom: 68px;
+}
+
+#teendot{
+    position: relative;
+    left: 820px;
+    bottom: 68px; 
+}
+
+/* .parentmain{
+    display: flex;
+} */
+
+.a{
+    border: 1px solid  black;
+    height: 80px;
+    width: 400px;
+}
+
+/* .bigbox{
+    border: 1px solid black;
+    height: auto;
+    width: 870px;
+} */
+/* .chatsearch{
+    height: 30px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: rgb(143, 150, 147);
+} */
+#Chatsearch{
+    height: 30px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: rgb(31, 227, 142);
+}

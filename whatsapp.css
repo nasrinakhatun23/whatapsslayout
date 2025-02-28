@@ -1,0 +1,281 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    height: 100%;
+    width:100%;
+}
+
+.wrapper{
+    display: flex;
+}
+
+.header{
+    border: 1px solid black;
+    height: 80px;
+    width: 400px;
+    background: whitesmoke;
+       
+}
+
+.head-img{
+    border-radius: 100%;
+    margin: 10px;
+    width: 70px;
+    height: auto;
+}
+
+
+.fa-commenting-o{
+    position: relative;
+    bottom: 36px;    
+    left: 140px;
+}
+
+
+.fa-envelope-o{
+    position: relative;
+    bottom:36px;
+    left:160px ;
+
+}
+#three{
+    position: relative;
+    bottom:36px;
+    left:180px ;
+}
+
+.header2{
+    border: 1px solid black;
+    height: 80px;
+    width: 1000px;
+    background: whitesmoke;
+    
+}
+
+.head-img2{
+    border-radius: 100%;
+    margin: 10px;
+    width: 70px;
+    height: auto;
+}
+
+.name{
+    position: relative;
+    left: 100px;
+    bottom: 56px;
+}
+
+#seaching{
+    position: relative;
+    left: 800px;
+    bottom: 68px;
+}
+
+#teendot{
+    position: relative;
+    left: 820px;
+    bottom: 68px; 
+}
+
+.merge{
+    display: flex;
+    
+}
+
+ .box{
+    border: 1px solid black;
+    height: 60px;
+    width: 440px;
+    
+} 
+
+.whatsback{
+    height: 960px;
+    width: 900px;
+    background-image: url(whatapp\ background.jpg);
+}
+.mainback{
+    height: 500px;
+    overflow: auto;
+}
+
+.zain{
+    height: 40px;
+    width: 40px;
+    border-radius: 80px;
+    margin: 10px;
+}
+
+
+.naam{
+    position: relative;
+    bottom: 42px;
+    left: 56px;
+}
+
+.a2{
+    position: relative;
+    bottom: 40px;
+    left: 60px;
+}
+
+.a3{
+    position: relative;
+    bottom: 80px;
+    left: 300px;
+}
+
+#a1{
+    height: 40px;
+    width: 260px;
+    padding-top: 15px;
+    position: relative;
+    top: 18px;
+    border-radius: 8px; 
+    background: whitesmoke;  
+}
+
+#searchhh{
+    position: relative;
+    top: 5px;
+    right: 260px;
+}
+
+#teendottt{
+    position: relative;
+    top: 22px;
+    left: 50px;
+}
+.cht{
+    background-color: pink;
+    width: 200px;
+    height: 30px;
+    position: relative;
+    bottom: 900px;
+    left: 20px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.chtt{
+    background-color: pink;
+    width: 200px;
+    height: 30px;
+    position: relative;
+    bottom: 880px;
+    left: 560px;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.chttt{
+    background-color: pink;
+    width: 200px;
+    height: 30px;
+    position: relative;
+    bottom: 880px;
+    left: 20px;
+    border-radius: 5px;
+    padding: 2px;
+}
+.chtttt{
+    background-color: pink;
+    width: 280px;
+    height: 30px;
+    position: relative;
+    bottom: 860px;
+    left: 560px;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.chttttt{
+    background-color: pink;
+    width: 280px;
+    height: 30px;
+    position: relative;
+    bottom: 860px;
+    left: 20px;
+    border-radius: 5px;
+    padding: 2px;
+}
+.chtttttt{
+    background-color: pink;
+    width: 280px;
+    height: 30px;
+    position: relative;
+    bottom: 820px;
+    left: 560px;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.chtttttttt{
+    background-color: pink;
+    width: 340px;
+    height: 30px;
+    position: relative;
+    bottom: 820px;
+    left: 20px;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.outside{
+   position: relative;
+   top: 40px;
+   margin: 40px;
+}
+
+.chttttttttt{
+    background-color: pink;
+    width: 340px;
+    height: 30px;
+    position: relative;
+    bottom: 600px;
+    left: 540px;
+    border-radius: 5px;
+    padding: 2px; 
+}
+
+.boxi{
+    overflow: auto;
+    height: 600px;
+    width: 400px;
+
+    
+}
+
+#ending{
+    position: relative;
+    left: 500px;
+    bottom: 90px;
+    height: 50px;
+    width: 680px;
+    border-radius: 5px;
+}
+
+#sr{
+    position: relative;
+    left: 530px;
+    bottom: 86px;
+}
+
+.fa-smile-o{
+    position: relative;
+    right: 270px;
+    bottom: 84px;
+}
+
+.fa-paperclip{
+    position: relative;
+    right: 262px;
+    bottom: 84px;
+}
+
+
